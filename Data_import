@@ -1,0 +1,12 @@
+"import numpy as np",
+				"import pandas as pd",
+				"%matplotlib inline",
+				"import matplotlib as mpl",
+				"import matplotlib.pyplot as plt",
+				"import os",
+				"import tensorflow as tf",
+				"from tensorflow import keras",
+				"train_dir = r'C:/Users/Specter/Desktop/resources/train' ",
+				"validation_dir = r'C:/Users/Specter/Desktop/resources/validation' ",
+				"test_dir = r'C:/Users/Specter/Desktop/resources/test' ",
+				"from tensorflow.keras.preprocessing.image import ImageDataGenerator"
